@@ -1,0 +1,11 @@
+{
+    "Amethyst-Aura": {
+        "name": "Amethyst Aura",
+        "description": "Your theme description here",
+        "author": "jackpawlik1",
+        "repository": "https://github.com/jackpawlik1/Amethyst-Aura",
+        "branch": "main",
+        "license": "Your chosen license (e.g., MIT)",
+        "preview": "URL to a preview image of your theme (optional)"
+    }
+} 
