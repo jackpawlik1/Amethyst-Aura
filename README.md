@@ -7,11 +7,12 @@ This is not a standalone theme, it needs [HyDE](https://github.com/prasanthranga
 
 > ## Installation
 
-```Hyde theme import "Amethyst Aura" https://github.com/jackpawlik1/Amethyst-Aura```
+`Hyde theme import "Amethyst-Aura" https://github.com/jackpawlik1/Amethyst-Aura`
+
 or
 
-```Hyde theme import```
+`Hyde theme import`
 
-and choose 'Amethyst Aura' from the list.
+and choose 'Amethyst-Aura' from the list.
 
 
